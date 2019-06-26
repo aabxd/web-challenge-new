@@ -1,0 +1,46 @@
+* {
+  background-color: green;
+  margin: 0 auto;
+  font-family: 'roboto', sans-serif;
+}
+
+nav ul a {
+  text-decoration: none;
+  background-color: grey;
+  text-transform: uppercase;
+  color: white;
+  padding: 20px;
+}
+
+nav ul li {
+  text-decoration: none;
+  display: inline-block;
+  margin: 20px 10px;
+}
+
+nav ul a:hover {
+  background-color: white;
+  color: black;
+}
+
+nav ul {
+  background-color: grey;
+}
+
+.middle {
+  background-color: yellow;
+  padding: 100px;
+  margin-top: 20px;
+}
+
+.middle p {
+  background-color: yellow;
+}
+
+p {
+  margin: 20px;
+}
+
+footer {
+  padding: 20px;
+}
